@@ -1,0 +1,18 @@
+viraltrend-ai/
+│
+├── app/
+│   ├── page.tsx
+│   ├── dashboard/
+│   ├── trends/
+│   └── api/
+│
+├── components/
+│   ├── Navbar.tsx
+│   ├── TrendCard.tsx
+│   └── SearchBox.tsx
+│
+├── lib/
+│   ├── openai.ts
+│   └── supabase.ts
+│
+└── database/
